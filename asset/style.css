@@ -1,0 +1,19 @@
+body{
+	padding-left: 15px;
+	padding-right: 15px;
+	background: #f1c40f;
+	background-image: url(bmw.jpg);
+	background-repeat: no-repeat;
+}
+p{
+	width: 50%;
+	text-align: center;
+}
+h1{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+h3{
+	margin-top: 25px;
+	margin-bottom: 30px;
+}
